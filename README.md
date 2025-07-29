@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Okkhor+Studios;Creative+tools+with+code,+design+%26+culture;Empowering+learners,+developers,+creatives" alt="Typing SVG" />
+</p>
 # 🅾️ Okkhor Studios
 
 ### 🎨 Building creative tools with **code, design & culture**  
