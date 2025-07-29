@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/OkkhorStudio/.github/blob/main/profile/README.bn.md">
+  <a href="https://github.com/OkkhorStudios/.github/blob/main/profile/README.bn.md">
     <img src="https://img.shields.io/badge/বাংলা%20Version-Click%20Here-green?style=for-the-badge" />
   </a>
 </p>
