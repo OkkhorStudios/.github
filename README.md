@@ -1,76 +1,74 @@
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF00FF,00FFFF,FFFF00&center=true&vCenter=true&width=700&lines=Okkhor+Studios;Creative+Tools+with+Code,+Design+%26+Culture;Empowering+Learners,+Developers+%26+Creatives" alt="Typing SVG" />
+  <img src="okkhor_studios_banner.gif" alt="Okkhor Studios Banner" width="800"/>
 </p>
 
-<!-- Banner with gradient border -->
-<div align="center">
+# 🅾️ Okkhor Studios
 
-<img src="https://img.icons8.com/color/96/idea.png" width="80"/>
-
-<h1>🅾️ Okkhor Studios</h1>
-<p><strong><span style="color:#ffcc70;">"Code • Design • Culture"</span></strong></p>
-<p>Remote Creative Lab • Based in Bangladesh</p>
-
-</div>
+> **Empowering Students, Developers & Creatives in Bangladesh**  
+> _বাংলাদেশের শিক্ষার্থী, ডেভেলপার ও ক্রিয়েটিভদের জন্য_
 
 ---
 
-<!-- Gradient Border Card -->
-<div align="center">
-<table>
-<tr><td>
+## 🌟 About Us
 
-## 🚀 What We’re Building
-At **Okkhor Studios**, we build open, useful, and artistic tools to empower learners, developers, and creatives.  
-Our vision blends **technology**, **minimal design**, and **cultural storytelling**.
+We are **Okkhor Studios** — a remote creative lab blending **technology, design, and culture**.  
+We make **open-source tools** to help students, developers, and creatives.
 
 ---
 
-### 🔧 Current Projects
-- 🤖 **SparkLife Bot** – Telegram bot with live location sharing & smart utilities
-- 🪪 **BD Pass** – Digital Identity App
-- 🧠 **Ethical Hacking Lab** – Termux toolkit for students
-- 🎨 **Kohl Collective** – Minimal streetwear brand
-- 📘 **AI Notion Dashboards** – Study tools and templates
+## 🚀 Current Projects
+
+- 🤖 **SparkLife Bot**  
+  Telegram bot for **live location sharing & productivity tools**.
+
+- 🪪 **BD Pass (Digital Identity App)**  
+  Secure app concept to organize **NID, Passport, Driving License, Certificates**.
+
+- 🧠 **Ethical Hacking Lab**  
+  **Mobile-friendly guide** using Termux for ethical hacking learners.
+
+- 🎨 **Kohl Collective**  
+  A **minimal streetwear brand** with Arabic-English cultural fusion.
+
+- 📘 **AI Notion Dashboards**  
+  **Study tools, content calendars, productivity templates** for creators.
 
 ---
 
-### 🌟 Slogan
-> **"Shaping ideas into digital art."**
+## 🇧🇩 Our Vision
+We believe in:
+- Supporting **Bangladeshi students and innovators**
+- Creating **tech + design tools** that tell a story
+- **Open-source collaboration**
 
 ---
 
-### 🌐 Connect With Us
-<p align="center">
-  <a href="mailto:okkhorstudios@gmail.com"><img src="https://img.icons8.com/color/48/apple-mail.png" width="36"/></a>
-  <a href="https://t.me/OkkhorStudios"><img src="https://img.icons8.com/color/48/telegram-app.png" width="36"/></a>
-  <a href="https://youtube.com/@OkkhorStudios"><img src="https://img.icons8.com/color/48/youtube-play.png" width="36"/></a>
-  <a href="https://instagram.com/OkkhorStudios"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36"/></a>
-</p>
+## 🌐 Connect With Us
+
+- 📫 **Email:** okkhorstudios@gmail.com
+- 💬 **Telegram:** [@OkkhorStudios](https://t.me/OkkhorStudios)
+- 📺 **YouTube:** [Okkhor Studios Channel](https://youtube.com/@OkkhorStudios)
+- 📸 **Instagram:** [@OkkhorStudios](https://instagram.com/OkkhorStudios)
 
 ---
 
-<details>
-<summary><strong>বাংলা ভার্সন দেখতে এখানে ক্লিক করুন</strong></summary>
+## 💡 Collaboration
 
-### 🎨 **কোড, ডিজাইন এবং সংস্কৃতির মাধ্যমে সৃজনশীল টুল তৈরি করছি**  
-📍 রিমোট ক্রিয়েটিভ ল্যাব | বাংলাদেশ  
-📧 okkhorstudios@gmail.com  
+We welcome:
+- **Developers** (Open source)
+- **Students** (Learning AI tools)
+- **Designers** (Cultural minimalism)
+- **Testers / Ethical Hackers**
 
-## 🚀 আমরা যা তৈরি করছি
-**Okkhor Studios**-এ আমরা ওপেন, দরকারী এবং শিল্পমূলক টুল বানাই যা শিক্ষার্থী, ডেভেলপার এবং ক্রিয়েটিভদের ক্ষমতায়ন করে।
+> ✨ Let’s build something meaningful together!
 
-- 🤖 **SparkLife Bot** – লাইভ লোকেশন শেয়ারিং এবং ইউটিলিটি বট
-- 🪪 **BD Pass** – ডিজিটাল আইডেন্টিটি অ্যাপ
-- 🧠 **Ethical Hacking Lab** – টার্মাক্স টুলকিট
-- 🎨 **Kohl Collective** – স্ট্রিটওয়্যার ব্র্যান্ড
-- 📘 **AI Notion Dashboards** – স্টাডি টুলস ও টেমপ্লেট
+---
 
-</details>
+## 🛠️ Tech Stack
 
-</td></tr>
-</table>
-</div>
+`Python` · `Node.js` · `React Native` · `Termux`  
+`GitHub Pages` · `Telegram Bot API` · `Notion API` · `Figma` · `Tailwind CSS` · `AI Tools`
 
 ---
 
